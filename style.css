@@ -1,0 +1,5 @@
+body { font-family: -apple-system, "Hiragino Sans", sans-serif; max-width: 640px; margin: 0 auto; padding: 24px; line-height: 1.9; color: #1C2024; background: #F2F4F7; }
+h1 { font-size: 1.4rem; } h2 { font-size: 1.1rem; margin-top: 2em; }
+.updated { color: #656D76; font-size: .85rem; }
+a { color: #1F5FA9; }
+code { background: #E6EAEF; padding: 1px 5px; border-radius: 4px; font-size: .9em; }
